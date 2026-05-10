@@ -1,7 +1,7 @@
 # Web-Design-HW
 
 # Personal CV Website
-
+[Preview Website](https://minciunadavid06.github.io/HW-EWD2/)
 ## Descriere
 
 Acest proiect reprezintă un **website personal de tip CV/portofoliu**, realizat folosind **HTML, CSS și JavaScript**. Scopul proiectului este prezentarea informațiilor personale, a abilităților, a proiectelor realizate și a unor elemente interactive precum o pagină de overview, o carte de vizită digitală și un chatbot simplu.
